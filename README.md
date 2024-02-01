@@ -1,2 +1,2 @@
-# HolaMon
+# Hola Món
 Primer repositori
